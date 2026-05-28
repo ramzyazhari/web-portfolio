@@ -63,7 +63,7 @@ export default function Nav({ color }) {
       ? setScroll(true)
       : setScroll(false);
   const downloadCV = () => {
-    fetch("/content/CV_Ghifari_Octaverin.pdf")
+    fetch("/content/CV_Ramzy Azhari Mahadika.pdf")
       .then((response) => {
         response.blob()
           .then((blob) => {

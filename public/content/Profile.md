@@ -1,5 +1,5 @@
 ## Site Name
-- Ghifari's Portfolio
+- Ramzy's Portfolio
 
 ## Header
 - Hi, I'm Ghifari. 

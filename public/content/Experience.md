@@ -1,6 +1,6 @@
 ## PT Amiga
 - *Graphic Designer* | Sep'21 - Sep'22
-- ![eureka](../assets/eureka.jpg)
+- ![amiga](../assets/amiga.jpeg)
 - Tags: Work
 - Badges:
   - Photoshop [green]
@@ -12,7 +12,7 @@
 
 ## PT Amiga
 - *Graphic Designer Intern* | Jan'21 - Apr'21
-- ![eureka](../assets/eureka.jpg)
+- ![amiga](../assets/amiga.jpeg)
 - Tags: Work
 - Badges:
   - Photoshop [green]
@@ -24,7 +24,7 @@
 
 ## harisenin.com
 - *UI/UX & Product Management* | Nov'25 - May'26
-- ![dicoding](../assets/dicoding.jpg)
+- ![harisenin](../assets/harisenin.png)
 - Tags: Bootcamp
 - Badges:
   - Figma [pink]
@@ -47,7 +47,7 @@
 
 ## KEMA FPEB UPI
 - *KOMINFO Department* | 20 - 21
-- ![gdg](../assets/gdg.svg)
+- ![kemafpeb](../assets/kemafpeb.jpg)
 - Tags: Organization
 - Badges:
   - Graphic Design [blue]
@@ -59,7 +59,7 @@
 
 ## Accelerate
 - *Creative Department* | Apr'19 - Dec'19
-- ![gdsc](../assets/gdsc.png)
+- ![accelerate](../assets/accelerate.jpg)
 - Tags: Organization
 - Badges:
   - Graphic Design [blue]
@@ -71,7 +71,7 @@
 
 ## IMAKSI UPI
 - *Head of KOMINFO Department* | Jan'19 - Jan'20
-- ![ostric](../assets/ostric.png)
+- ![imaksi](../assets/imaksi.png)
 - Tags: Organization
 - Badges:
   - Graphic Design [blue]

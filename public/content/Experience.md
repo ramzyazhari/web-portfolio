@@ -1,72 +1,82 @@
-## PT Edukasi Rekanan Anda
-- *Android Developer Intern* | Aug'23 - Dec'23
+## PT Amiga
+- *Graphic Designer* | Sep'21 - Sep'22
 - ![eureka](../assets/eureka.jpg)
 - Tags: Work
 - Badges:
-  - Android [green]
-  - Kotlin [purple]
-  - Firebase [orange]
+  - Photoshop [green]
+  - Illustrator [purple]
 - List Items:
-  - Collaborated with back-end, UI/UX, and QA teams to deliver user-friendly, reliable applications.
-  - Practiced writing clean, readable code by following company coding standards and maintaining thorough documentation.
-  - Contributed to refactoring the company application, improving its readability, maintainability, and scalability.
+  - Responsible for creating social media, advertising, and print.
+  - Creating and developing visual and brand identity.
+  - Producing assets and illustrations for social media and websites.
 
-## Dicoding Indonesia
-- *Kampus Merdeka Studi Independen Bersertifikat Program* | Aug'22 - Dec'22
+## PT Amiga
+- *Graphic Designer Intern* | Jan'21 - Apr'21
+- ![eureka](../assets/eureka.jpg)
+- Tags: Work
+- Badges:
+  - Photoshop [green]
+  - Illustrator [purple]
+- List Items:
+  - Responsible for creating social media, advertising, and print.
+  - Creating and developing visual and brand identity.
+  - Producing assets and illustrations for social media and websites.
+
+## harisenin.com
+- *UI/UX & Product Management* | Nov'25 - May'26
 - ![dicoding](../assets/dicoding.jpg)
 - Tags: Bootcamp
 - Badges:
-  - Android [green]
-  - Kotlin [purple]
-  - Firebase [orange]
-  - UI/UX [cyan]
+  - Figma [pink]
+  - UI/UX [red]
 - List Items:
-  - Gained comprehensive training in Android development, covering the fundamentals of Kotlin programming, software architecture, and common design patterns in Android applications.
-  - Successfully completed 8 structured courses covering software development fundamentals, programming logic, version control with Git and GitHub, Kotlin programming, Android development (fundamental and intermediate levels), SOLID programming principles, and UX design basics.
-  - Completed multiple project-based assignments, culminating in a capstone project: a fully functional crowdfunding Android application demonstrating the application of acquired skills in real-world scenarios.
+  - Gained comprehensive training in UI/UX Design and Product Management, covering the fundamentals of UI Design, UX Design, and common Product management.
+  - Successfully completed 22 learning modules, including Basic of Product Management, UI/UX Overview, UX Writing, UX Research, User Persona, Design Principles and Fundamentals, Wireframing, Design Systems, and Prototyping.
+  - Completed multiple project-based assignments, culminating in a capstone project: a fully functional educational Android application demonstrating the application of acquired skills in real-world scenarios.
   - Graduated as one of the top-performing participants, recognized for outstanding performance and consistency throughout the program.
 
 ## Universitas Pendidikan Indonesia
-- *Bachelor of Computer Science* | 20 - 24
+- *Bachelor of Accounting* | 17 - 24
 - ![upi](../assets/upi.png)
 - Tags: Education
 - Badges:
   - Formal Education [blue]
 - List Items:
-  - GPA: 3.93/4.00
-  - Activities: Google Developer Student Clubs UPI, Open-Source Research Society Kemakom UPI
+  - GPA: 3.20/4.00
+  - Activities: IMAKSI UPI, KEMA FPEB UPI, Accelerate
 
-## Google Developer Group Bandung
-- *Volunteer* | 23 - 24
+## KEMA FPEB UPI
+- *KOMINFO Department* | 20 - 21
 - ![gdg](../assets/gdg.svg)
 - Tags: Organization
 - Badges:
   - Graphic Design [blue]
   - Event [teal]
 - List Items:
-  - Designed promotional posters for social media, merchandise, and event properties, contributing to consistent and engaging visual branding.
-  - Joined the documentation team for DevFest Bandung 2023 and Build With AI 2024, responsible for capturing and organizing event highlights and visual content.
+  - Created informational media for both internal and external campus communications
+  - Designed all social media content and visuals
+  - Served as a liaison between campus departments for collaborative partnerships
 
-## Google Developer Student Club UPI
-- *Core Team* | Oct'22 - Jul'23
+## Accelerate
+- *Creative Department* | Apr'19 - Dec'19
 - ![gdsc](../assets/gdsc.png)
 - Tags: Organization
 - Badges:
   - Graphic Design [blue]
   - Event [teal]
-  - Android [green]
-  - Kotlin [purple]
 - List Items:
   - Contributed as a creative designer, producing merchandise and promotional posters for social media campaigns and organizational events.
-  - Served as a mentor in the Android Development division, providing guidance and support to members.
-  - Created structured learning materials for Android Development study jams to enhance peer learning.
-  - Acted as a speaker in an Android Development study jam, sharing technical knowledge and best practices with fellow members.
+  - Created stage layouts and decorations.
+  - Worked as a stage photographer and videographer
 
-## Open-Source Research Society Kemakom UPI
-- *Member* | 21 - 22
+## IMAKSI UPI
+- *Head of KOMINFO Department* | Jan'19 - Jan'20
 - ![ostric](../assets/ostric.png)
 - Tags: Organization
 - Badges:
   - Graphic Design [blue]
+  - Event [teal]
 - List Items:
-  - Designed educational Instagram content focused on programming topics, aimed at increasing engagement and promoting tech literacy through visually appealing and informative posts.
+  - Created informational media for both internal and external campus communications
+  - Designed all social media content and visuals
+  - Served as a liaison between campus departments for collaborative partnerships

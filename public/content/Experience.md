@@ -71,7 +71,7 @@
 
 ## IMAKSI UPI
 - *Head of KOMINFO Department* | Jan'19 - Jan'20
-- ![imaksi](../assets/imaksi.png)
+- ![imaksi](../assets/imaksi.PNG)
 - Tags: Organization
 - Badges:
   - Graphic Design [blue]

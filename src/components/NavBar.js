@@ -70,7 +70,7 @@ export default function Nav({ color }) {
             const url = window.URL.createObjectURL(blob);
             let alink = document.createElement("a");
             alink.href = url;
-            alink.download = "CV_Ghifari_Octaverin.pdf";
+            alink.download = "CV_Ramzy Azhari Mahadika.pdf";
             alink.click();
           });
       });

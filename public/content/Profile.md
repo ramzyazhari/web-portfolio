@@ -3,11 +3,11 @@
 
 ## Header
 - Hi, I'm Ramzy. 
-- Software Engineer.
-- I build mobile apps with Kotlin and Flutter.
+- UI/UX Designer.
+- Crafting intuitive digital experiences.
 
 ## About
-Mobile App Developer specializing in Android development with Kotlin and cross-platform solutions using Flutter. Experienced in building responsive, user-friendly applications with clean architecture to ensure maintainability and scalability. Proficient in integrating RESTful APIs, Firebase, and Google Maps API. Currently expanding expertise in Jetpack Compose for modern, declarative Android UIs. Strong understanding of the software development lifecycle, with a focus on delivering user-centric solutions aligned with business goals. A proactive team contributor, committed to writing clean, efficient code, and applying SOLID principles to ensure robust solutions.
+UI/UX Designer who enjoys creating digital experiences that are simple, intuitive, and easy to use. I believe good design is not only about visual appearance, but also about understanding users and solving real problems through thoughtful solutions. My design approach focuses on clarity, usability, and creating experiences that feel natural for users. I pay close attention to how people interact with digital products and aim to design interfaces that help users achieve their goals with less friction and confusion.
 
 ## Contact
 You can contact me here.

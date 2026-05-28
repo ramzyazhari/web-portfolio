@@ -2,7 +2,7 @@
 - Ramzy's Portfolio
 
 ## Header
-- Hi, I'm Ghifari. 
+- Hi, I'm Ramzy. 
 - Software Engineer.
 - I build mobile apps with Kotlin and Flutter.
 

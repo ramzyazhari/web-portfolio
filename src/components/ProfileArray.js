@@ -9,7 +9,8 @@ const parseProfile = (mdContent) => {
     about: "",
     contact: "",
     linkedin: "",
-    github: "",
+    dribbble: "",
+    behance: "",
     email: "",
     logo: "",
   };
@@ -33,7 +34,7 @@ const parseProfile = (mdContent) => {
           break;
         case "Contact":
           profile.contact = lines[++i].trim();
-          const contactLinks = ["LinkedIn", "GitHub", "Email"];
+          const contactLinks = ["LinkedIn", "Dribbble", "Behance", "Email"];
           for (const link of contactLinks) {
             const linkLine = lines[++i].substr(2).trim();
             if (linkLine.startsWith(link)) {
@@ -63,7 +64,8 @@ const ProfileArray = () => {
     about: "",
     contact: "",
     linkedin: "",
-    github: "",
+    dribbble: "",
+    behance: "",
     email: "",
     logo: "",
   });

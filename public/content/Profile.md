@@ -12,7 +12,8 @@ Mobile App Developer specializing in Android development with Kotlin and cross-p
 ## Contact
 You can contact me here.
 - LinkedIn: https://linkedin.com/in/ghifariocta
-- GitHub: https://github.com/ghifari21
+- Dribbble: https://dribbble.com/ramzy-azhari
+- Behance: https://www.behance.net/ramzyazhari
 - Email: ghifariocta21@gmail.com
 
 ## Logo

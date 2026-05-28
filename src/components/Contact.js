@@ -8,7 +8,7 @@ import {
   Heading,
   Center,
 } from "@chakra-ui/react";
-import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
+import { FaLinkedin, FaEnvelope, FaBehance, FaDribbble } from "react-icons/fa";
 import ProfileArray from "./ProfileArray";
 
 export default function Contact({ color }) {
@@ -16,8 +16,11 @@ export default function Contact({ color }) {
   const linkedin = () => {
     window.open(`${profile.linkedin}`, "_blank", "noreferrer,noopener");
   };
-  const github = () => {
-    window.open(`${profile.github}`, "_blank", "noreferrer,noopener");
+  const dribbble = () => {
+    window.open(`${profile.dribbble}`, "_blank", "noreferrer,noopener");
+  };
+  const behance = () => {
+    window.open(`${profile.behance}`, "_blank", "noreferrer,noopener");
   };
   const email = () => {
     window.open(`mailto:${profile.email}`, "_blank", "noreferrer,noopener");
@@ -51,7 +54,8 @@ export default function Contact({ color }) {
             <Center>
               <HStack pt={4} spacing={4}>
                 <FaLinkedin onClick={linkedin} size={28} />
-                <FaGithub onClick={github} size={28} />
+                <FaDribbble onClick={dribbble} size={28} />
+                <FaBehance onClick={behance} size={28} />
                 <FaEnvelope onClick={email} size={28} />
               </HStack>
             </Center>
